@@ -1,0 +1,47 @@
+body {
+	background-color: black;
+	padding: 5vw;
+}
+h1{
+	color: white;
+	margin-top: 0vw;
+	font-size: 5vw;
+	font-family: "releway"
+	text-align: center;
+
+}
+h2{
+	color: white;
+	margin-top: 8vw;
+	font-size: 3vw;
+	font-family: "releway",
+	text-align: left;
+}
+p{
+	color: white;
+	font-size: 2vw;
+	font-family: "sacramento", 
+	text-align: justify; 
+}
+li{
+	color: white;
+}
+b{
+	color: white;
+}
+th{
+	color: white;
+}
+td{
+	color: white;
+}
+tr:hover{
+	background-color: rgba(255,255,255,0.1);
+}
+th, td {
+	padding: 8px;
+	text-align: left;
+	border-bottom: 1px solid gray; 
+}
+
+
